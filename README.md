@@ -12,13 +12,13 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Genetic Algorithms | Dany | 9 may |
 | Tail Recursion | Jesús Flores & Gerardo | may? | 
 | Greedy Algorithms | Esteban | may? |
-| Graphs - Shortest Path - Dijkstra | ? | ? |
-| Graphs - A* Algorithm | Miriam | ? |
+| Graphs - Shortest Path - Dijkstra | Erick Mercado | may 23th |
+| Graphs - A* Algorithm | Miriam | may 30th |
 | Graphs - Topological Sort | ? | ? |
 | Graphs  Shortest Path - Bellman-Ford | ? | ? |
 | Graphs - Shortest Path - Floyd-Warshall | ? | ? |
 | HashTables | Esteban | ? |
-| Linear Sorting | Dionicio | ? |
+| Linear Sorting | Dionicio | Jun 6th |
 | Traveling Salesman Problem | Dany & Chacon | ? |
 | String Manipulation | Dany | ? |
 | Baktracking | Ulises | ? |
