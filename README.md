@@ -10,10 +10,10 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Trees | Dionicio | 18 abr | 
 | Graphs - DFS/BFS | Rogelio | 25 abr |
 | Genetic Algorithms | Dany | 9 may |
-| Tail Recursion | Jesús Flores & Gerardo | may? | 
+| Tail Recursion | Jesús Flores & Gerardo | 16 may | 
 | Greedy Algorithms | Esteban | may? |
-| Graphs - Shortest Path - Dijkstra | Erick Mercado | may 23th |
-| Graphs - A* Algorithm | Miriam | may 30th |
+| Graphs - Shortest Path - Dijkstra | Erick Mercado | 23 may |
+| Graphs - A* Algorithm | Miriam | 30 may |
 | Graphs - Topological Sort | ? | ? |
 | Graphs  Shortest Path - Bellman-Ford | ? | ? |
 | Graphs - Shortest Path - Floyd-Warshall | ? | ? |
