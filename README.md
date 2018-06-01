@@ -16,7 +16,7 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Graphs - A* Algorithm | Miriam | 30 may |
 | Graphs - Topological Sort | ? | ? |
 | Graphs  Shortest Path - Bellman-Ford | ? | ? |
-| Graphs - Shortest Path - Floyd-Warshall | ? | ? |
+| Graphs - Shortest Path - Floyd-Warshall | Jonathan Ordaz | 13 Jun   |
 | HashTables | Esteban | ? |
 | Linear Sorting | Dionicio | Jun 6th |
 | Traveling Salesman Problem | Dany & Chacon | ? |
