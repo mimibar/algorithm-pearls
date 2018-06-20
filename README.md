@@ -12,7 +12,7 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Genetic Algorithms | Dany | 9 may |
 | Tail Recursion | Jesús Flores & Gerardo | 16 may | 
 | Greedy Algorithms | Esteban | may? |
-| Graphs - Shortest Path - Dijkstra | Erick Mercado | 23 may |
+| Graphs - Shortest Path - Dijkstra | Eric Mercado | 23 may |
 | Graphs - A* Algorithm | Miriam | 30 may |
 | Graphs - Topological Sort | Jose Aguilera | 4 July |
 | Graphs  Shortest Path - Bellman-Ford | ? | ? |
@@ -20,8 +20,8 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | HashTables | Esteban | ? |
 | Bipartite graph | Esteban | June 13th |
 | Linear Sorting | Dionicio | Jun 6th |
-| Traveling Salesman Problem | Dany & Chacon | ? |
-| String Manipulation | Dany | ? |
+| Traveling Salesman Problem | Chacon | ? |
+| String Manipulation | ? | ? |
 | Backtracking | ? | ? |
 | Dynamic Programming | Gerardo | ? |
 | Kruskal Algorithm | Mayral Monreal | 20 Jun |
@@ -33,3 +33,21 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Computational Geometry - Largest empty circle | ? | ? |
 | Computational Geometry - Voronoi Diagram | ? | ? |
 | Computational Geometry - Nearest Neighbor | ? | ? |
+
+
+Alberto Chacon
+Daniel Pedroza
+Daniel Vazquez
+Joel Flores
+Juan de la Mora
+
+
+Dio
+Rogelio
+Jesus
+Gerardo
+Estban
+Eric
+Miriam
+Jonatan Ordaz
+Jose Aguilera
