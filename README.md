@@ -22,7 +22,7 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Linear Sorting                                | Dionicio               |  6 Jun |
 | Traveling Salesman Problem                    | Chacon                 |    ?   |
 | String Manipulation                           | ?                      |    ?   |
-| Backtracking + Branch and Bound               | Gerardo                |    ?   |
+| Backtracking & Branch and Bound               | Gerardo                |    ?   |
 | Dynamic Programming                           | Gerardo                |    ?   |
 | Kruskal Algorithm                             | Mayral Monreal         | 20 Jun |
 | Bit Algorithms                                | Oscar Legorreta        | 11 Jul |
