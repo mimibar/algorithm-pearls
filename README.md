@@ -15,14 +15,14 @@ This is an Algorithms Study Group which meets every Wednesday at 5 p.m. at the f
 | Graphs - Shortest Path - Dijkstra             | Eric Mercado           | 23 may |
 | Graphs - A* Algorithm                         | Miriam                 | 30 may |
 | Graphs - Topological Sort                     | Jose Aguilera          | 4 July |
-| Graphs  Shortest Path - Bellman-Ford          | ?                      |    ?   |
+| Graphs  Shortest Path - Bellman-Ford          | Miriam                 |  Aug   |
 | Graphs - Shortest Path - Floyd-Warshall       | Jonathan Ordaz         | 27 Jun |
 | HashTables                                    | Esteban                |    ?   |
 | Bipartite graph                               | Esteban                | 13 Jun |
 | Linear Sorting                                | Dionicio               |  6 Jun |
 | Traveling Salesman Problem                    | Chacon                 |    ?   |
-| String Manipulation                           | ?                      |    ?   |
-| Backtracking & Branch and Bound               | Gerardo                |    ?   |
+| String Manipulation                           | Miriam                 |   Aug  |
+| Backtracking & Branch and Bound               | Gerardo                | 1 aug  |
 | Dynamic Programming                           | Gerardo                |    ?   |
 | Kruskal Algorithm                             | Mayral Monreal         | 20 Jun |
 | Bit Algorithms                                | Oscar Legorreta        | 11 Jul |
